@@ -1,6 +1,15 @@
-.jpg
-.png
-.jpeg
-./.idea
-./ACDC/*
-./DAWN/*
+# Images
+*.jpg
+*.jpeg
+*.png
+
+# IDE
+.idea/
+
+# Project directories
+ACDC/
+DAWN/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
